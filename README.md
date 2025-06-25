@@ -298,6 +298,12 @@ for file_path in image_paths:
 - Gradio for web interface framework
 - The research community for deepfake detection advances
 
+## 📖 Authors
+
+- https://github.com/Mallikarjun-Macherla/
+-  https://github.com/sainathch45/
+-  https://github.com/TRahulsingh/
+
 ---
 
 ⭐ **Star this repository if you found it helpful!**
